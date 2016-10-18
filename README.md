@@ -1,7 +1,8 @@
 # SOC590-Python-tutorial
 ## Python for Webscraping
-SOC 590: Big Data and Population Processes
-17th October 2016
+
+SOC 590: Big Data and Population Processes  
+17th October 2016  
 created by: Kivan Polimis
 
 ## Outline
